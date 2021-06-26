@@ -1,1 +1,1 @@
-SECRET_KEY='dagcyrus'
+SECRET_KEY='dagamani'
